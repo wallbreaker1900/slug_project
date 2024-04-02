@@ -1,0 +1,1 @@
+/home/jill/ngsF/ngsF -init_values r -min_epsilon 1e-9 --n_ind 55 --n_sites 2985980 --n_threads 15 --glf /Scratch/jill/alignment_results_angsd/northern.glf --out nothern.ngsF 2>nothern.ngsF.err

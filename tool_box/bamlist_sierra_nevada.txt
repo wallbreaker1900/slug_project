@@ -1,0 +1,9 @@
+/Scratch/jill/alignment_results_bwa/1049A.bam
+/Scratch/jill/alignment_results_bwa/1049B.bam
+/Scratch/jill/alignment_results_bwa/1049C.bam
+/Scratch/jill/alignment_results_bwa/1049D.bam
+/Scratch/jill/alignment_results_bwa/1050A.bam
+/Scratch/jill/alignment_results_bwa/1050B.bam
+/Scratch/jill/alignment_results_bwa/1050C.bam
+/Scratch/jill/alignment_results_bwa/1050D.bam
+/Scratch/jill/alignment_results_bwa/1051A.bam

@@ -1,0 +1,17 @@
+/Scratch/jill/alignment_results_bwa/1029A.bam
+/Scratch/jill/alignment_results_bwa/1029B.bam
+/Scratch/jill/alignment_results_bwa/1029C.bam
+/Scratch/jill/alignment_results_bwa/1030A.bam
+/Scratch/jill/alignment_results_bwa/1030B.bam
+/Scratch/jill/alignment_results_bwa/1030C.bam
+/Scratch/jill/alignment_results_bwa/1046A.bam
+/Scratch/jill/alignment_results_bwa/1046B.bam
+/Scratch/jill/alignment_results_bwa/1046C.bam
+/Scratch/jill/alignment_results_bwa/1046D.bam
+/Scratch/jill/alignment_results_bwa/1047A.bam
+/Scratch/jill/alignment_results_bwa/1047B.bam
+/Scratch/jill/alignment_results_bwa/1047C.bam
+/Scratch/jill/alignment_results_bwa/1048A.bam
+/Scratch/jill/alignment_results_bwa/1048B.bam
+/Scratch/jill/alignment_results_bwa/1048C.bam
+/Scratch/jill/alignment_results_bwa/1048D.bam

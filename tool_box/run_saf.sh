@@ -1,0 +1,5 @@
+angsd -b bamlist_northern.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 45 -out northern -nThreads 10 2>northern.saf.err
+angsd -b bamlist_sierra_nevada.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 9 -out sierra_nevada -nThreads 10 2>sn.saf.err
+angsd -b bamlist_santa_cruz.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 40 -out santa_cruz -nThreads 10 2>sc.saf.err
+angsd -b bamlist_southern.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 13 -out southern -nThreads 10 2>southern.saf.err
+angsd -b bamlist.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 108 -out all -nThreads 10 2>all.saf.err

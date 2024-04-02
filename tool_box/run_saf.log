@@ -1,0 +1,5 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+4	:	1710869398.636	  8988.117	0	0	0	0	angsd -b bamlist_southern.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 13 -out southern -nThreads 10 2>southern.saf.err
+2	:	1710869398.626	 11944.541	0	0	0	0	angsd -b bamlist_sierra_nevada.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 6 -out sierra_nevada -nThreads 10 2>sn.saf.err
+3	:	1710869398.631	 32070.088	0	0	0	0	angsd -b bamlist_santa_cruz.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 40 -out santa_cruz -nThreads 10 2>sc.saf.err
+1	:	1710869398.620	 49670.154	0	0	0	0	angsd -b bamlist_northern.txt -gl 1 -anc /Scratch/jill/reference/bslug.final.fa -ref /Scratch/jill/reference/bslug.final.fa -dosaf 1 -minMapQ 40 -minQ 30 -minInd 45 -out northern -nThreads 10 2>northern.saf.err
